@@ -5,18 +5,18 @@ TEMPLATE  = app
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp \
-    captureworker.cpp \
-    packetmodel.cpp \
-    hexview.cpp \
+    mw.cpp \
+    cw.cpp \
+    pm.cpp \
+    hv.cpp \
     pcap_file.cpp
 
 HEADERS += \
     packet_structs.h \
-    mainwindow.h \
-    captureworker.h \
-    packetmodel.h \
-    hexview.h \
+    mw.h \
+    cw.h \
+    pm.h \
+    hv.h \
     pcap_file.h
 
 # --- Npcap SDK Configuration (Self-contained in project folder) ---
