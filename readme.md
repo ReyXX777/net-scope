@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/36d41ec4-1629-4e9b-99a3-79c8345cf8b5
+
+
 # Packet Inspector
 
 A lightweight cross platform network packet analyzer tool. Captures live network traffic, decodes protocol headers in real-time, provides an interactive hex viewer with byte level highlighting.
@@ -9,7 +14,7 @@ A lightweight cross platform network packet analyzer tool. Captures live network
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Live Packet Capture** 
 * **3-Pane UI**:
@@ -26,7 +31,7 @@ A lightweight cross platform network packet analyzer tool. Captures live network
 
 ---
 
-## 📸 Flow
+##  Flow
 
 1. Launch the app → select a network interface from the dropdown.
 2. Generate traffic (browse the web`).
@@ -34,11 +39,11 @@ A lightweight cross platform network packet analyzer tool. Captures live network
 4. Click any packet → see the decoded Ethernet/IPv4/TCP tree in the middle pane.
 5. Click a field (e.g., "Src Port") → watch those exact bytes highlight yellow in the hex view.
 6. `File → Save As...` → save to `capture.pcap`.
-7. Open `capture.pcap` in **Wireshark** to verify compatibility.
+7. Open `capture.pcap` to verify compatibility.
 
 ---
 
-## 🛠️ Build Instructions
+##  Build Instructions
 
 ### Linux
 
