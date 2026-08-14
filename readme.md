@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/36d41ec4-1629-4e9b-99a3-79c8345cf8b5
-
 
 # Packet Inspector
 
